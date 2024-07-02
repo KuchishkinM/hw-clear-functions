@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v4ex38gc7h5sjbyo?svg=true)](https://ci.appveyor.com/project/KuchishkinM/hw-clear-functions)
